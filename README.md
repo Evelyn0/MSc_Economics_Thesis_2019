@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## MSc Economics Thesis 2019
 
-You can use the [editor on GitHub](https://github.com/Jacobs007/first-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The repository contains the version as presented at the defence. Although graded well, the work suffers from some methodological issues. One of the mistakes made is that it relies too much on STATA’s package named “xsmle” which is ill-suited to address the simultaneity problem. A better approach would have to do the computations of the xsmle command manually as well as use instrumental variables. 
+[Belotti, F. Hughes, G. and Piano Mortari, A. (2017). Spatial Panel Data Models Using Stata. *The Stata Journal*. Volume 17. Issue 1. Pages 139-180.](https://journals.sagepub.com/doi/abs/10.1177/1536867X1701700109) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A second issue is the strategy taken to create a spatial multinomial logit model. This approach is creative but invalid. 
 
-### Markdown
+An alternative and more promising approach to the project would be the use of a difference in differences design that exploits the characteristics of (two) neighbouring municipalities being similar but different in their values for the variables of interest. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jacobs007/first-repo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Finally, some of the special characters in the document are displayed wrongly after uploading the thesis on Github. A more readable version of the thesis is available upon request. 
