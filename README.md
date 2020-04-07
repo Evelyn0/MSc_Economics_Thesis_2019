@@ -5,6 +5,6 @@ The repository contains the version as presented at the defence. Although graded
 
 A second issue is the strategy taken to create a spatial multinomial logit model. This approach is creative but invalid. 
 
-An alternative and more promising approach to the project would be the use of a difference in differences design that exploits the characteristics of (two) neighbouring municipalities being similar but different in their values for the variables of interest. 
+An alternative and more promising approach to the project would be the use of a difference in differences design that exploits the characteristics of (two) neighbouring municipalities being similar but different in their value for the variables of interest. 
 
 Finally, some of the special characters in the document are displayed wrongly after uploading the thesis on Github. A more readable version of the thesis is available upon request. 
